@@ -26,7 +26,7 @@ npx vercel --prod
 
 - Apresentação e formação
 - Projeto Barbearia
-- Animações, cursor personalizado e prévia interativa
+- Estudo de caso com telas recriadas e decisões técnicas
 - Contato e redes profissionais
 
 As animações respeitam a preferência de redução de movimento do dispositivo.
